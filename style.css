@@ -1,0 +1,153 @@
+.header {
+  margin: 0;
+  padding: 0;
+  border: 5px solid maroon;
+  background-color: darkgray;
+  color: purple;
+}
+* {
+  margin: 0;
+  padding: 0;
+  background: rgb(255, 255, 255);
+  background-repeat: no-repeat;
+  justify-content: center;
+}
+
+a:link {
+  color: white;
+}
+a:visited {
+  color: purple;
+}
+
+.images {
+  margin: 0;
+  padding: 0;
+  align-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.camel {
+  background: lightgrey;
+  position: relative;
+  text-align: center;
+  width: 250px;
+  padding: 0px;
+  border: 1px solid black;
+  text-transform: uppercase;
+  color: orange;
+  border-radius: 5px;
+}
+.camel img {
+  margin-top: 10px;
+  border: 5px solid black;
+  border-radius: 5px;
+}
+.camel:hover {
+  transition: 0.5s;
+  transform: scale(1.1);
+}
+.chameleon {
+  background: lightgrey;
+  position: relative;
+  text-align: center;
+  width: 250px;
+  padding: 0px;
+  border: 1px solid black;
+  text-transform: uppercase;
+  color: orange;
+  border-radius: 5px;
+}
+.chameleon img {
+  margin-top: 10px;
+  border: 5px solid black;
+  border-radius: 5px;
+}
+.chameleon:hover {
+  transition: 0.5s;
+  transform: scale(1.1);
+}
+.cicada {
+  background: lightgrey;
+  position: relative;
+  text-align: center;
+  margin-bottom: 100px;
+  width: 250px;
+  padding: 0px;
+  border: 1px solid black;
+  text-transform: uppercase;
+  color: orange;
+  border-radius: 1px;
+}
+.cicada img {
+  margin-top: 10px;
+  border: 5px solid black;
+  border-radius: 5px;
+}
+.cicada:hover {
+  transition: 0.5s;
+  transform: scale(1.1);
+}
+.panda {
+  background: lightgrey;
+  position: relative;
+  text-align: center;
+  width: 250px;
+  padding: 0px;
+  border: 1px solid black;
+  text-transform: uppercase;
+  color: orange;
+  border-radius: 5px;
+}
+.panda img {
+  margin-top: 10px;
+  border: 5px solid black;
+  border-radius: 5px;
+}
+.panda:hover {
+  transition: 0.5s;
+  transform: scale(1.1);
+}
+.pigeon {
+  background: lightgrey;
+  position: relative;
+  text-align: center;
+  width: 250px;
+  padding: 0px;
+  border: 1px solid black;
+  text-transform: uppercase;
+  color: orange;
+  border-radius: 5px;
+}
+.pigeon img {
+  margin-top: 10px;
+  border: 5px solid black;
+  border-radius: 5px;
+}
+.pigeon:hover {
+  transition: 0.5s;
+  transform: scale(1.1);
+}
+.teddy {
+  background: lightgrey;
+  position: absolute;
+  margin-top: 350px;
+  margin-left: 630px;
+  text-align: center;
+  width: 250px;
+  padding: 0px;
+  border: 1px solid black;
+  text-transform: uppercase;
+  color: orange;
+  border-radius: 5px;
+}
+.teddy img {
+  margin-top: 10px;
+  border: 5px solid black;
+  border-radius: 5px;
+}
+.teddy:hover {
+  transition: 0.5s;
+  transform: scale(1.1);
+}
